@@ -38,7 +38,7 @@ dotnet test
 
 ## Authors
 
-* **Billie Thompson** - *Initial work*
+* **Vinicius Pfeifer** - *Initial work*
 
 ## TO DO LIST
 
