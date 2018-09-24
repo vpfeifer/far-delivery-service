@@ -24,6 +24,7 @@ dotnet run
 Go to the folder of the project that you want to test (DeliveryService.Core.Tests or DeliveryService.Api.Tests) and run :
 
 ```
+dotnet restore
 dotnet test
 ```
 
